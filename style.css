@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #87CEEB; /* Sky blue */
+}
+
+#gameCanvas {
+    display: block;
+    margin: auto;
+    background-color: #228B22; /* Forest green */
+}
